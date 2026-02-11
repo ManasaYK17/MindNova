@@ -54,6 +54,3 @@ CSE – Data Science Engineering
 
 🔗 GitHub: https://github.com/ManasaYK17
 
-LinkedIn project description
-⭐ 
-Interview explanation (very useful 😄)
