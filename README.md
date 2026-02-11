@@ -28,7 +28,7 @@ AI Components:gemini API, tensor flow
 
 ⚙️ Installation
 # Clone the repository
-git clone https://github.com/ManasaYK17/ai-driven-mental-health-analyser-
+git clone https://github.com/ManasaYK17/MindNova
 
 # Navigate into project directory
 cd ai-driven-mental-health-analyser-
