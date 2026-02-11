@@ -22,7 +22,7 @@ Simple, accessible, and supportive interface for a comfortable user experience.
 Frontend:HTML / CSS
 Backend:Python / Django 
 Database:SQLite
-AI Components:gemini API, tensor flow
+AI Components :gemini API, tensor flow
 
 🎥 Demo Video:
 
